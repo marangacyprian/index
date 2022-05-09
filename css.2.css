@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+}
+h4{
+    color: #0077ff;
+}
+h1,h4{
+    text-align: center;
+}
+list{
+list-style: upper-latin;
+}

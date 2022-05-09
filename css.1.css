@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+}
+h4{
+    color: aqua;
+}
+h1,h4{
+    text-align: center;
+}
+list{
+    color: blue;
+
+}
+tr{
+    color: blue;
+    border-color: #000;
+    font-family: "DejaVu Sans Mono";
+}
+.m{
+    display: block;
+}
+
